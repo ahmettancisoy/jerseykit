@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    user-select: none;
+  }
+  
+  .text-stroke {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+  }
